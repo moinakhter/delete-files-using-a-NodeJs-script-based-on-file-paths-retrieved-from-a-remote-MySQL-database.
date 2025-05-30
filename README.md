@@ -42,7 +42,7 @@ The script assumes a `public/images/Submissions` directory exists relative to th
 Run the script using:
 
 ```bash
-npm start
+node index.js
 ```
 
 The script will:
