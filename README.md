@@ -1,4 +1,4 @@
-# delete-files-using-a-NodeJs-script-based-on-file-paths-retrieved-from-a-remote-MySQL-database.
+# A Node.js script to delete submission images from a MySQL database and create a backup of the public folder.
 
 ### I am removing files from project_dir/public/images/Submission folder
 # Submission Image Cleanup
