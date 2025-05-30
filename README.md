@@ -66,11 +66,11 @@ The script will:
 
 ### Result
 === Summary ===
-🗂️ Total records processed: 9644
-🟢 Found files: 2487
-🗑️ Deleted files: 2487
-🚫 Not deleted files: 0
-🔍 Not found files: 7120
-📁 Files before deletion: 133112
+- 🗂️ Total records processed: 9644
+- 🟢 Found files: 2487
+- 🗑️ Deleted files: 2487
+- 🚫 Not deleted files: 0
+- 🔍 Not found files: 7120
+- 📁 Files before deletion: 133112
 
 
