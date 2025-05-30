@@ -1,0 +1,14 @@
+{
+  "name": "submission-image-cleanup",
+  "version": "1.0.0",
+  "description": "A Node.js script to delete submission images from a MySQL database and create a backup of the public folder.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.11.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
